@@ -1,1 +1,1 @@
-This is a new text file for number-5. I have added new line to see what git diff does. 
+This is a new text file for number-5. I have added new line to see what git diff does. Now I am adding another line to check if Diff works again. 
