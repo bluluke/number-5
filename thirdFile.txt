@@ -1,0 +1,1 @@
+This is a new text file for number-5. I have added new line to see what git diff does. 
